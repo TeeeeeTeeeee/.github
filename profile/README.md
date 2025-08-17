@@ -25,4 +25,4 @@ TinyLlama split into **2 shards**; single `/generate` endpoint; both TEEs post a
 - **Contract (Base Sepolia):** [`0x396061f4eba244416ca7020fa341f8f6a990d991`](https://sepolia.basescan.org/address/0x396061f4eba244416ca7020fa341f8f6a990d991)
 
 ## Team
-Liew Qi Jian · Phen Jing Yuan · Edwina Hon Kai Xin · Cedric Chung Theng Fung · Tan Zhi Wei · Marcus Tan
+Liew Qi Jian · Phen Jing Yuan · Edwina Hon Kai Xin · Cedric Chung Theng Fung · Tan Zhi Wei · Marcus Tan · Lee Wai Yee
